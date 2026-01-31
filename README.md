@@ -1,1 +1,2 @@
 # python-app
+At work, a Python application runs on a Linux server that needs to be containerized using Docker. The goal is to create a Dockerfile that includes the necessary steps to install Python and the required dependencies, copy the application into the container, configure it to run on startup and expose the required ports for external access.
